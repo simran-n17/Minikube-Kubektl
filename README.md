@@ -1,5 +1,3 @@
-Creating a README file with screenshots after each command is a great way to document your Minikube and Kubernetes setup process. Below is an example of how you can structure your README file, including placeholders for screenshots. You can replace the placeholder text with actual screenshots after running the commands.
-
 ---
 
 # Minikube and Kubernetes Lab Setup
