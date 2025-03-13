@@ -162,26 +162,3 @@ kubectl delete deployment nginx
 By using Minikube and kubectl on your local laptop, you can easily create, manage, and scale Kubernetes deployments. Minikube is an excellent tool for setting up a local cluster to test and experiment with Kubernetes before deploying to a production environment.
 
 ---
-
-### Adding Screenshots
-
-To add screenshots to your README:
-
-1. Run each command in your terminal.
-2. Take a screenshot of the terminal output after each command.
-3. Save the screenshots in an `images` folder within your project directory.
-4. Replace the **Screenshot Placeholder** text in the README with the appropriate image markdown, like this:
-
-```markdown
-![Step 1: Install Minikube and kubectl](./images/step1-install-minikube-kubectl.png)
-```
-
-Make sure to update the image paths according to your directory structure.
-
-### Final README File
-
-Once you've added all the screenshots, your README file will be a comprehensive guide with visual aids, making it easier for others to follow along with your Minikube and Kubernetes setup.
-
----
-
-Feel free to customize the README further based on your specific needs!
